@@ -1,1 +1,9 @@
 # anastasia-blender
+
+### Introducción
+Este proyecto tiene como objetivo recrear el vídeo de una de mis mascotas favoritas, la perrita Anastasia. Utilizando la herramienta de Blender y apoyándome en assets de la comunidad para los objetos de la sala (los sillones y la mesita). Mientras que para el modelo de Anastasia, aprenderé conocimientos de modelado en Blender para realizar una escena con sus movimientos energéticos.
+
+
+https://user-images.githubusercontent.com/41924660/149613566-ccb1741b-8cc0-491d-88b5-1ea05b92a4a1.mp4
+
+![tacha](https://user-images.githubusercontent.com/41924660/149613737-b31a3916-6454-4e54-9a54-38bf13b8f5a8.jpeg)
