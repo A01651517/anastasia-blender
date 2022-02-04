@@ -1,0 +1,25 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="init" type="InitTab" active="false" scrollx="383" scrolly="425" scale="0.9"></tab>
+  <tab name="main" type="MainTab" active="true" scrollx="533" scrolly="792" scale="1">
+    <block xmlns="https://developers.google.com/blockly/xml" type="playAnimationAdv" id="gw3V6wmD/H,$V1~k*1(@" x="-390" y="-610">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="false" enablewhenfinished="false"></mutation>
+      <field name="REVERSED">FALSE</field>
+      <field name="LOOP">LoopRepeat</field>
+      <value name="VALUE">
+        <shadow type="animationList" id="7~Jz4)Jai1.t]pYs17#W">
+          <field name="FIELDNAME">metarig</field>
+        </shadow>
+      </value>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="eventHTMLElem" id="=x*q5h?328yQk~%-@dW7" x="-470" y="-510">
+      <field name="EVENT">keyup</field>
+      <field name="PARENT">TRUE</field>
+      <value name="ID">
+        <shadow type="text" id="NJPX:+L!Mi)_z|;17zr^">
+          <field name="TEXT">Space</field>
+        </shadow>
+      </value>
+    </block>
+  </tab>
+  <editorsettings viewport-x="1357.2" viewport-y="27" viewport-w="376.8" viewport-h="463" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>

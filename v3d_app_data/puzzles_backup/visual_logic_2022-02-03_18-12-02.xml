@@ -1,0 +1,16 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="init" type="InitTab" active="false" scrollx="383" scrolly="425" scale="0.9"></tab>
+  <tab name="main" type="MainTab" active="true" scrollx="468" scrolly="708" scale="1">
+    <block xmlns="https://developers.google.com/blockly/xml" type="playAnimationAdv" id="gw3V6wmD/H,$V1~k*1(@" x="-390" y="-410">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="false" enablewhenfinished="false"></mutation>
+      <field name="REVERSED">FALSE</field>
+      <field name="LOOP">LoopRepeat</field>
+      <value name="VALUE">
+        <shadow type="animationList" id="7~Jz4)Jai1.t]pYs17#W">
+          <field name="FIELDNAME">metarig</field>
+        </shadow>
+      </value>
+    </block>
+  </tab>
+  <editorsettings viewport-x="1357.2" viewport-y="27" viewport-w="376.8" viewport-h="463" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>
